@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+    width: 600px;
+    margin: 0 auto;
+}
+
+img{
+    width: 400px;
+}
+
+h1{
+    color: red;
+}
+
+h2{
+    color: orange;
+}
+
+a{
+    color: green;
+}
+
+a:hover{
+    color: blue;
+}
+
+ul{
+    list-style: square;
+}
+
+p.big_text{
+    font-size: 150%;
+}
